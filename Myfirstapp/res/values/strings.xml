@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">My first app</string>
+    <string name="insert_categoryname">Insert categoryname</string>
+    <string name="insert_staffid">Insert staffid</string>
+    <string name="create">Create</string>
+    <string name="insert_cost">Insert cost</string>
+    <string name="insert_description">Insert description</string>
+    <string name="insert_productname">Insert productname</string>
+    <string name="insert_rrp">Insert rrp</string>
+    <string name="email">email</string>
+    <string name="main_menu">Main menu</string>
+    <string name="create_product">Create product</string>
+    <string name="create_category">Create category</string>
+    <string name="all_products">All products</string>
+    <string name="all_categories">All categories</string>
+    <string name="welcome_to_my_first_app">Welcome to my first app</string>
+    <string name="login">login</string>
+    <string name="password">Password</string>
+    <string name="log_in">Log in</string>
+    <string name="edit">Buy</string>
+    <string name="products_in_this_category">Products in this category</string>
+    <string name="checkbox">CheckBox</string>
+    <string name="Login">login</string>
+    <string name="categoires">Categoires</string>
+    <string name="productname">Productname</string>
+    <string name="rrp">Rrp</string>
+    <string name="description">Description</string>
+    <string name="cost">Cost</string>
+    <string name="sign_out">Sign out</string>
+    <string name="sign_in">Sign in</string>
+    <string name="categoryname">Categoryname</string>
+    <string name="staffresponsible">Staffresponsible</string>
+    
+   
+    <string-array name="numbers">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+    </string-array>
+        <string name="order">Order</string>
+
+</resources>

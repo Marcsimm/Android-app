@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/start_menu"
+        android:title="@string/main_menu">
+    </item>
+    <item
+        android:id="@+id/log_ins"
+        android:title="@string/sign_in">
+    </item>
+    <item
+        android:id="@+id/log_out" 
+        android:title="@string/sign_out">
+    </item>
+    <item
+        android:id="@+id/create_products"
+        android:title="@string/create_product">
+    </item>
+    <item
+        android:id="@+id/create_categories"
+        android:title="@string/create_category">
+    </item>
+    <item
+        android:id="@+id/list_of_products"
+        android:title="@string/all_products">
+    </item>
+    <item
+        android:id="@+id/list_of_categories"
+        android:title="@string/all_categories">
+    </item>
+     <item
+        android:id="@+id/list_of_cart"
+        android:title="basket">
+    </item>
+    
+
+</menu>
